@@ -24,3 +24,6 @@ BEGIN
     :NEW.date_updated := SYSTIMESTAMP;
 END;
 /
+
+
+SELECT * FROM demons;
